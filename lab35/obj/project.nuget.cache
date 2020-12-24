@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOLLtKecWkTrt9L1xZIK0batr8Nmzr3W6mlpj7+biKfOWmDEbKsMpQptFWxrpvLqNOpateMBleuLQtxBI9uiaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\lab35\\lab35\\lab35.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.testplatform\\16.9.0-preview-20201123-03\\microsoft.testplatform.16.9.0-preview-20201123-03.nupkg.sha512"
+  ],
+  "logs": []
+}

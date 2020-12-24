@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab35/1.0.0": {
+        "dependencies": {
+          "Microsoft.TestPlatform": "16.9.0-preview-20201123-03"
+        },
+        "runtime": {
+          "lab35.dll": {}
+        }
+      },
+      "Microsoft.TestPlatform/16.9.0-preview-20201123-03": {}
+    }
+  },
+  "libraries": {
+    "lab35/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.TestPlatform/16.9.0-preview-20201123-03": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wAUFPqIRtdwredCcB69ELXqQZ/1Rz/eRludt4Aymx7KK+E97gXQS4eZ2YbdfIUEBhOBTRNXmuulr7RBDs+NGDQ==",
+      "path": "microsoft.testplatform/16.9.0-preview-20201123-03",
+      "hashPath": "microsoft.testplatform.16.9.0-preview-20201123-03.nupkg.sha512"
+    }
+  }
+}

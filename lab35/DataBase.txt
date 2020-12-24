@@ -1,0 +1,1 @@
+Student asasd{'fname':'as','sname':'asd','student_id':'КВ123467','gender':'male','average':'4','country':'Ua''course':'3'}

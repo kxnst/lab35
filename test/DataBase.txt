@@ -1,0 +1,7 @@
+TaxiDriver asdasdas{'fname':'asdasd', 'sname':'as'}
+TaxiDriver asdasdasdasd{'fname':'asdasd', 'sname':'asdasd'}
+TaxiDriver asdasd{'fname':'asd', 'sname':'asd'}
+Student asas{'fname':'as','sname':'as','student_id':'КВ123456','gender':'helicopter','average':'5','country':'Ukraine''course':'5'}
+Student ssss{'fname':'ss','sname':'ss','student_id':'КВ123457','gender':'man','average':'4,5','country':'zimbabwe''course':'1'}
+Student asasss{'fname':'as','sname':'asss','student_id':'КВ228322','gender':'Man','average':'5','country':'Uganda''course':'1'}
+TaxiDriver fnamesname{'fname':'fname', 'sname':'sname'}
